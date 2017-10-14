@@ -48,14 +48,14 @@ If you would like to participate on a windows computer, I encourage you to resea
 
 ## Resources
 
-* http://bashrcgenerator.com/
 * https://learncodethehardway.org/unix/bash_cheat_sheet.pdf
+* http://bashrcgenerator.com/
 
 ## References
 
 * https://www.ibm.com/developerworks/library/l-linux-shells/index.html
 * https://programminghistorian.org/lessons/intro-to-bash
-* http://www.linfo.org/terminal_window.html
-* http://hawker.me/PimpMyShell-Talk/
 * https://gist.github.com/stephenll/8762279
 * https://apple.stackexchange.com/questions/51036/what-is-the-difference-between-bash-profile-and-bashrc
+* http://www.linfo.org/terminal_window.html
+* http://hawker.me/PimpMyShell-Talk/
