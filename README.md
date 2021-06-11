@@ -58,4 +58,3 @@ If you would like to participate on a windows computer, I encourage you to resea
 * https://gist.github.com/stephenll/8762279
 * https://apple.stackexchange.com/questions/51036/what-is-the-difference-between-bash-profile-and-bashrc
 * http://www.linfo.org/terminal_window.html
-* http://hawker.me/PimpMyShell-Talk/
